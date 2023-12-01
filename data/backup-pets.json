@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Fat Cat",
+    "species": "Cat"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Puppers",
+    "species": "Dog"
+  },
+  {
+    "id": 3,
+    "name": "Sansa",
+    "species": "Dog"
+  },
+  {
+    "id": 4,
+    "name": "Phil",
+    "species": "Dog"
+  },
+  {
+    "id": 5,
+    "name": "Bambi",
+    "species": "Deer"
+  },
+  {
+    "id": 6,
+    "name": "VS Cat",
+    "species": "Virtual Cat"
+  },
+  {
+    "id": 7,
+    "name": "Ellie",
+    "species": "Dog"
+  }
+]

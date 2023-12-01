@@ -1,0 +1,20 @@
+{
+  "name": "intro-to-node",
+  "version": "0.1.0",
+  "description": "The best demo I've seen this morning",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "awesome-demo",
+    "node"
+  ],
+  "author": "nolan",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
